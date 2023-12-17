@@ -1,4 +1,5 @@
 /target
+/days/*/target
 input1.txt
 input2.txt
 input_test.txt
